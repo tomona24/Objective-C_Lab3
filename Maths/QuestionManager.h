@@ -1,8 +1,8 @@
 //
-//  AdditionQuestion.h
+//  QuestionManager.h
 //  Maths
 //
-//  Created by Tomona Sako on 2020/06/11.
+//  Created by Tomona Sako on 2020/06/10.
 //  Copyright © 2020 Tomona Sako. All rights reserved.
 //
 
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface AdditionQuestion : NSObject
+@interface QuestionManager : NSObject
 
 @end
 

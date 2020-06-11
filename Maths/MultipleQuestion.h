@@ -1,5 +1,5 @@
 //
-//  AdditionQuestion.h
+//  MultipleQuestion.h
 //  Maths
 //
 //  Created by Tomona Sako on 2020/06/11.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface AdditionQuestion : NSObject
+@interface MultipleQuestion : NSObject
 
 @end
 

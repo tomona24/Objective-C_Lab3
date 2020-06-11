@@ -1,13 +1,13 @@
 //
-//  AdditionQuestion.m
+//  SubtractionQuestion.m
 //  Maths
 //
 //  Created by Tomona Sako on 2020/06/11.
 //  Copyright © 2020 Tomona Sako. All rights reserved.
 //
 
-#import "AdditionQuestion.h"
+#import "SubtractionQuestion.h"
 
-@implementation AdditionQuestion
+@implementation SubtractionQuestion
 
 @end
